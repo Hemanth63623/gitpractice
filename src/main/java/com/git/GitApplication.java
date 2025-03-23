@@ -12,6 +12,7 @@ public class GitApplication {
               int x=100;
               int y=188;
               char i='a';
+	      double z=1345;
 	}
 
 }
