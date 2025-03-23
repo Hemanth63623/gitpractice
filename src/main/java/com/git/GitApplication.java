@@ -8,6 +8,8 @@ public class GitApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GitApplication.class, args);
+
+		float v=10.03f
 	}
 
 }
