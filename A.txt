@@ -5,10 +5,8 @@ I am fine. what about you.
 <<<<<<< Updated upstream
 i want to make myself strong and positive every time
 ohh ok let's meet  tommarow
-=======
-
 public class A{
 
 
 }
->>>>>>> Stashed changes
+
